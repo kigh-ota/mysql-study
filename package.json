@@ -1,0 +1,23 @@
+{
+  "name": "rdb-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kigh-ota/rdb-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kigh-ota/rdb-study/issues"
+  },
+  "homepage": "https://github.com/kigh-ota/rdb-study#readme",
+  "dependencies": {
+    "jest": "^25.4.0",
+    "promise-mysql": "^4.1.3"
+  }
+}
